@@ -21,8 +21,8 @@ body{
     overflow-x: hidden; 
    display: inline-block;
    /* width: 100%; */
-
-   min-width: 1170px;
+    min-height: 1300px;
+   min-width: 1300px;
    
     
  
